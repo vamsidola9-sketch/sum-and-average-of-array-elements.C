@@ -5,3 +5,14 @@ it takes input from the user stores them in array,adds them,and computes the ave
 ##usage
 //gcc compilation
 sum-and-average-of-array-elements.o.sum-and-average-of-array-elements
+your sponsorship helps me:
+- Continue developing helpful projects 🧩  
+- Share tutorials for beginners 📘  
+- Keep growing in open-source development 🌍  
+
+Thank you for your support! 🙏
+
+---
+
+### 📸 Connect with Me
+- GitHub: [@vamsidola9-sketch](https://github.com/vamsidola9-sketch)
